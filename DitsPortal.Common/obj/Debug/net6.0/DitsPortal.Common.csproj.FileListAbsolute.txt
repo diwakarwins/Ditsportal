@@ -1,0 +1,15 @@
+C:\Users\ditsd\OneDrive\Desktop\.Net\project10\DitsPortal.Common\bin\Debug\net6.0\DitsPortal.Common.deps.json
+C:\Users\ditsd\OneDrive\Desktop\.Net\project10\DitsPortal.Common\bin\Debug\net6.0\DitsPortal.Common.dll
+C:\Users\ditsd\OneDrive\Desktop\.Net\project10\DitsPortal.Common\bin\Debug\net6.0\DitsPortal.Common.pdb
+C:\Users\ditsd\OneDrive\Desktop\.Net\project10\DitsPortal.Common\obj\Debug\net6.0\DitsPortal.Common.csproj.AssemblyReference.cache
+C:\Users\ditsd\OneDrive\Desktop\.Net\project10\DitsPortal.Common\obj\Debug\net6.0\DitsPortal.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ditsd\OneDrive\Desktop\.Net\project10\DitsPortal.Common\obj\Debug\net6.0\DitsPortal.Common.AssemblyInfoInputs.cache
+C:\Users\ditsd\OneDrive\Desktop\.Net\project10\DitsPortal.Common\obj\Debug\net6.0\DitsPortal.Common.AssemblyInfo.cs
+C:\Users\ditsd\OneDrive\Desktop\.Net\project10\DitsPortal.Common\obj\Debug\net6.0\DitsPortal.Common.csproj.CoreCompileInputs.cache
+C:\Users\ditsd\OneDrive\Desktop\.Net\project10\DitsPortal.Common\obj\Debug\net6.0\DitsPortal.Common.dll
+C:\Users\ditsd\OneDrive\Desktop\.Net\project10\DitsPortal.Common\obj\Debug\net6.0\refint\DitsPortal.Common.dll
+C:\Users\ditsd\OneDrive\Desktop\.Net\project10\DitsPortal.Common\obj\Debug\net6.0\DitsPortal.Common.pdb
+C:\Users\ditsd\OneDrive\Desktop\.Net\project10\DitsPortal.Common\obj\Debug\net6.0\ref\DitsPortal.Common.dll
+C:\Users\ditsd\OneDrive\Desktop\.Net\project10\DitsPortal.Common\bin\Debug\net6.0\Domain.dll
+C:\Users\ditsd\OneDrive\Desktop\.Net\project10\DitsPortal.Common\bin\Debug\net6.0\Domain.pdb
+C:\Users\ditsd\OneDrive\Desktop\.Net\project10\DitsPortal.Common\obj\Debug\net6.0\DitsPortal.Common.csproj.CopyComplete

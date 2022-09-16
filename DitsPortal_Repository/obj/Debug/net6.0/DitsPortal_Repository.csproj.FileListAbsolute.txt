@@ -1,0 +1,17 @@
+C:\Users\ditsd\OneDrive\Desktop\.Net\project10\DitsPortal_Repository\obj\Debug\net6.0\DitsPortal_Repository.csproj.AssemblyReference.cache
+C:\Users\ditsd\OneDrive\Desktop\.Net\project10\DitsPortal_Repository\obj\Debug\net6.0\DitsPortal_Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ditsd\OneDrive\Desktop\.Net\project10\DitsPortal_Repository\obj\Debug\net6.0\DitsPortal_Repository.AssemblyInfoInputs.cache
+C:\Users\ditsd\OneDrive\Desktop\.Net\project10\DitsPortal_Repository\obj\Debug\net6.0\DitsPortal_Repository.AssemblyInfo.cs
+C:\Users\ditsd\OneDrive\Desktop\.Net\project10\DitsPortal_Repository\obj\Debug\net6.0\DitsPortal_Repository.csproj.CoreCompileInputs.cache
+C:\Users\ditsd\OneDrive\Desktop\.Net\project10\DitsPortal_Repository\bin\Debug\net6.0\DitsPortal_Repository.deps.json
+C:\Users\ditsd\OneDrive\Desktop\.Net\project10\DitsPortal_Repository\bin\Debug\net6.0\DitsPortal_Repository.dll
+C:\Users\ditsd\OneDrive\Desktop\.Net\project10\DitsPortal_Repository\bin\Debug\net6.0\DitsPortal_Repository.pdb
+C:\Users\ditsd\OneDrive\Desktop\.Net\project10\DitsPortal_Repository\bin\Debug\net6.0\DitsPortal.Common.dll
+C:\Users\ditsd\OneDrive\Desktop\.Net\project10\DitsPortal_Repository\bin\Debug\net6.0\Domain.dll
+C:\Users\ditsd\OneDrive\Desktop\.Net\project10\DitsPortal_Repository\bin\Debug\net6.0\Domain.pdb
+C:\Users\ditsd\OneDrive\Desktop\.Net\project10\DitsPortal_Repository\bin\Debug\net6.0\DitsPortal.Common.pdb
+C:\Users\ditsd\OneDrive\Desktop\.Net\project10\DitsPortal_Repository\obj\Debug\net6.0\DitsPortal_Repository.csproj.CopyComplete
+C:\Users\ditsd\OneDrive\Desktop\.Net\project10\DitsPortal_Repository\obj\Debug\net6.0\DitsPortal_Repository.dll
+C:\Users\ditsd\OneDrive\Desktop\.Net\project10\DitsPortal_Repository\obj\Debug\net6.0\refint\DitsPortal_Repository.dll
+C:\Users\ditsd\OneDrive\Desktop\.Net\project10\DitsPortal_Repository\obj\Debug\net6.0\DitsPortal_Repository.pdb
+C:\Users\ditsd\OneDrive\Desktop\.Net\project10\DitsPortal_Repository\obj\Debug\net6.0\ref\DitsPortal_Repository.dll
