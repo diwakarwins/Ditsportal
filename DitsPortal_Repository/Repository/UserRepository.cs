@@ -149,8 +149,8 @@ namespace DitsPortal_Repository.Repository
             }
             else
                 {
-                    // model.keyId = 0;
-                    // model.RespnseCode = 200;
+                    model.keyId = 0;
+                    model.RespnseCode = 200;
                     model.ResponseMessage = "  User not found";
                 }
             return model;
